@@ -14,7 +14,7 @@ timezone: Asia/Ho_Chi_Minh
 title: VNC                            
 tagline: Yet another script kiddie from UIT
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  VNC's Blog
 
 url: 'https://vnc1106.github.io'
 github:
@@ -60,7 +60,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/images/avt.png'
+avatar: /images/avt.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
